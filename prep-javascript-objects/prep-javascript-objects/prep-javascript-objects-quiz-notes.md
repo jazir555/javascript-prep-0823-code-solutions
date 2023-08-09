@@ -5,9 +5,10 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What data types can object properties hold?
+Strings, numbers, symbols, and other objects
 
 - Describe the syntax (structure) of object-literals in JavaScript.
-
+An object literal can be use either the . or bracket notations
 ## Notes
 
 All student notes should be written here.
