@@ -6,5 +6,5 @@ thirdElement = languages[2]
 console.log(thirdElement)
 const length = languages.length
 console.log(length)
-lastElement = languages[5]
+lastElement = languages.length
 console.log(lastElement)
