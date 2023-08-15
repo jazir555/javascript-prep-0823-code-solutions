@@ -7,9 +7,15 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 - What does `strictly equal` mean?
 
+The value must be identical to the one given
+
 - What is the logical **and** operator?
 
+A boolean operator meaning 2 conditions must both be satisfied for the function to evaluate as true.
+
 - Can you name some comparison operators?
+
+<>, <= >=
 
 ## Notes
 
