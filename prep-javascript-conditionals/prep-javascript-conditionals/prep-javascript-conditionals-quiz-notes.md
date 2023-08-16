@@ -7,6 +7,12 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 - What does `strictly equal` mean?
 
+<<<<<<< prep-javascript-loops
+- What is the logical **and** operator?
+
+- Can you name some comparison operators?
+
+=======
 The value must be identical to the one given
 
 - What is the logical **and** operator?
@@ -17,6 +23,7 @@ A boolean operator meaning 2 conditions must both be satisfied for the function 
 
 <>, <= >=
 
+>>>>>>> main
 ## Notes
 
 All student notes should be written here.
