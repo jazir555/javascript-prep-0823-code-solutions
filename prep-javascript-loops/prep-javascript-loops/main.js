@@ -42,27 +42,32 @@ function forLoop2() {
   newarray4.push(p);
 }
 return newarray4
-
+}
 const object = {
     name: 'Ada LoveLace',
     age: 'classic',
     hobby: 'computation',
     invention: 'analytical engine'
 }
-function forInLoop1(){
+function forInLoop1(object){
   const array1=[]
-  for (x in object) {
-  array1.push[x]
-}
+  console.log(object)
+  for (const x in object) {
+  array1.push(x)
+  console.log(x)
+  console.log(array1)
 
 }
-
-console.log("For in loop", forInLoop1())
-
-function forInLoop2(){
+return array1
+}
+console.log("For in loop", forInLoop1(object))
+function forInLoop2(object){
   const array2=[]
-  for (x in object) {
-  array2.push[x]
+  console.log(object)
+  for (const x in object) {
+  array2.push(x)
+  console.log(x)
 }
-
+return array2
 }
+console.log("For in loop2", forInLoop2(object))
